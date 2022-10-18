@@ -1,3 +1,17 @@
+# dnspy 基于作者源码上第二次开发
+
+计划新增功能：
+- asp.net页面调试反编译
+- 新增iisexpress站点配置工具
+- asp.net 页面源码修改和运行调试等
+
+
+
+
+
+
+
+
 # dnSpy - [Latest release](https://github.com/dnSpy/dnSpy/releases)
 
 dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features:
